@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/others_in_r/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/posts/bradford_open_data/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/dataset/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/one/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/two/</loc>
+    <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/one/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,47 +53,27 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <loc>/tags/database/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/two/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <loc>/posts/database_with_r/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/data_manipulation_in_r/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/data_visualisation_in_r/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/data.table/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tidyverse/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/visualisation/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/data_product_with_r/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,17 +83,27 @@
   </url>
   
   <url>
-    <loc>/tags/database/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <loc>/posts/modelling_with_r/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/database_with_r/</loc>
-    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+    <loc>/tags/tidyverse/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/model_in_r/</loc>
+    <loc>/tags/visualisation/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/others_in_r/</loc>
+    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/ml_in_r/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
