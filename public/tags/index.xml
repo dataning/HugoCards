@@ -39,15 +39,6 @@
     </item>
     
     <item>
-      <title>Dataset</title>
-      <link>/tags/dataset/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Documentation</title>
       <link>/tags/documentation/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -71,6 +62,15 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dataset/</guid>
       <description></description>
     </item>
     
