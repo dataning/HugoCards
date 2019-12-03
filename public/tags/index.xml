@@ -1,40 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Cards</title>
+    <title>Tags on Data Education</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Hugo Cards</description>
+    <description>Recent content in Tags on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2016 00:00:00 +0000</lastBuildDate>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>tag_c</title>
-      <link>/tags/tag_c/</link>
-      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag_c/</guid>
+      <guid>/tags/dataset/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag_a</title>
-      <link>/tags/tag_a/</link>
-      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag_a/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag_b</title>
-      <link>/tags/tag_b/</link>
-      <pubDate>Wed, 09 Mar 2016 00:00:00 +0000</pubDate>
+      <title>data.table</title>
+      <link>/tags/data.table/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tag_b/</guid>
+      <guid>/tags/data.table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>/tags/tidyverse/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>/tags/visualisation/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documentation</title>
+      <link>/tags/documentation/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/tags/database/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/database/</guid>
       <description></description>
     </item>
     

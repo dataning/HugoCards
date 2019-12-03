@@ -1,17 +1,16 @@
-baseurl = "http://example.org/"
-languageCode = "en-us"
-title = "Hugo Cards"
+baseurl = "http://data.education/"
+languageCode = "en-gb"
+title = "Data Education"
 theme = "hugo-cards"
 paginate = 6
 
 [params]
-  builtBy = "bool"
   defaultImage = "gopher.jpg"
 
   facebook = ""
   quora = ""
-  twitter = "http://twitter.com/bul_ikana"
-  github = "http://github.com/bul-ikana"
+  twitter = "http://twitter.com/ningdata"
+  github = ""
   email = ""
 
   fbLikeBox = ""
@@ -23,6 +22,6 @@ paginate = 6
   disqus = ""
 
   [params.copyright]
-     name = "bool"
-     link = "https://bool.netlify.com"
+     name = "Ning"
+     link = ""
 

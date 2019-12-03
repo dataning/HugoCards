@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Hugo Cards</title>
+    <title>Pages on Data Education</title>
     <link>/pages/</link>
-    <description>Recent content in Pages on Hugo Cards</description>
+    <description>Recent content in Pages on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-gb</language>
     
 	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,19 +16,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pages/about/</guid>
-      <description>Hugo cards is a Bootstrap based theme ported from the Jekyll theme Webjeda-cards. Any Bootstrap element can be used in the theme.
-For more themes, visit Hugo Themes
-Does the theme deserve a star?</description>
+      <description>Hero Data Education is an open data educaiton platform for peoplel who are interested in learning data science with R, Python, SQL, Git, Cloud and Tableau.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/pages/contact/</link>
+      <title>Team Hero</title>
+      <link>/pages/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/contact/</guid>
-      <description>Visit my site
-Insert your contact details or a contact form here.</description>
+      <guid>/pages/team/</guid>
+      <description>We&#39;re Team Hero.</description>
     </item>
     
   </channel>

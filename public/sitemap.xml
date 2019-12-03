@@ -3,78 +3,108 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/others_in_r/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bradford_open_data/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dataset/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/one/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/two/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
+    <loc>/posts/pm_in_r/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/welcome-to-hugo/</loc>
-    <lastmod>2016-06-13T10:51:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/usage/</loc>
-    <lastmod>2016-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/no-image/</loc>
-    <lastmod>2016-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/installation/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tag_c/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2016-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/elements/</loc>
-    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <loc>/categories/two/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tag_a/</loc>
-    <lastmod>2016-04-10T00:00:00+00:00</lastmod>
+    <loc>/posts/data_manipulation_in_r/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/documentation/</loc>
-    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
+    <loc>/posts/data_visualisation_in_r/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tag_b/</loc>
-    <lastmod>2016-03-09T00:00:00+00:00</lastmod>
+    <loc>/tags/data.table/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tidyverse/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/visualisation/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/data_product_with_r/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/documentation/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/database/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/database_with_r/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/model_in_r/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -112,11 +142,11 @@
   </url>
   
   <url>
-    <loc>/pages/contact/</loc>
+    <loc>/pages/</loc>
   </url>
   
   <url>
-    <loc>/pages/</loc>
+    <loc>/pages/team/</loc>
   </url>
   
 </urlset>

@@ -1,11 +1,12 @@
 ---
-date: "2016-03-09"
+author: Ning Lu
+date: "2019-12-01"
 img: image-5.png
 layout: post
 tags:
-- tag_a
-- tag_b
-title: Documentation
+- R
+- Documentation
+title: Data Products with R
 ---
 
 
