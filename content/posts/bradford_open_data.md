@@ -3,7 +3,7 @@ author: Ning Lu
 categories:
 - two
 date: "2019-12-04"
-img: image-2.png
+img: bradford.jpg
 layout: post
 tags:
 - R

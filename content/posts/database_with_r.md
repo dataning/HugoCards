@@ -1,7 +1,7 @@
 ---
 author: Ning Lu
 date: "2019-12-02"
-img: image-4.png
+img: sql.png
 layout: post
 tags:
 - R

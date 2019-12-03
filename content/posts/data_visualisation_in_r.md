@@ -3,7 +3,7 @@ author: Ning Lu
 categories:
 - one
 date: "2019-12-01"
-img: image-3.png
+img: dataviz2.png
 layout: post
 tags:
 - R

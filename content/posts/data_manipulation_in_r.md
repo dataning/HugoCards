@@ -3,7 +3,7 @@ author: Ning Lu
 category: two
 date: "2019-12-01"
 layout: post
-img: image-2.png
+img: datasort.png
 tags:
 - R
 - tidyverse

@@ -5,7 +5,7 @@ categories:
 - one
 - two
 date: "2019-12-03"
-img: image-1.png
+img: r-project.png
 tags:
 - R
 title: Project management with R

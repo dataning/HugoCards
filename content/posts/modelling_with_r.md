@@ -1,7 +1,7 @@
 ---
 author: Ning Lu
 date: "2019-12-01"
-img: image-5.png
+img: model.png
 layout: post
 tags:
 - R
