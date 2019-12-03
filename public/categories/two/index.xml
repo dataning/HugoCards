@@ -6,19 +6,10 @@
     <description>Recent content in two on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/two/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Bradford Open Data</title>
-      <link>/posts/bradford_open_data/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/bradford_open_data/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
-    </item>
     
     <item>
       <title>Project management with R</title>
@@ -26,6 +17,15 @@
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/pm_in_r/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
+    </item>
+    
+    <item>
+      <title>Bradford Open Data</title>
+      <link>/posts/bradford_open_data/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bradford_open_data/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
