@@ -11,6 +11,8 @@ The original goal of Data Education is to improve data skills across all public 
 
 The project of Data Education remains free to access for everyone and we're committed to update the educaiton materials every three months. 
 
+The team behind Data Education is Hero Lab.   
+
 <!-- Place this tag where you want the button to render. -->
 <!-- <a class="github-button" href="https://github.com/bul-ikana/hugo-cards" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star bul-ikana/hugo-cards on GitHub">Star</a>
 <!-- Place this tag in your head or just before your close body tag. -->

@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Data Education</title>
-    <link>/posts/</link>
+    <link>http://data.education/posts/</link>
     <description>Recent content in Posts on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://data.education/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project management with R</title>
-      <link>/posts/pm_in_r/</link>
+      <link>http://data.education/posts/pm_in_r/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/pm_in_r/</guid>
+      <guid>http://data.education/posts/pm_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Databases with R</title>
-      <link>/posts/database_with_r/</link>
+      <link>http://data.education/posts/database_with_r/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/database_with_r/</guid>
+      <guid>http://data.education/posts/database_with_r/</guid>
       <description>Nulla vel ante sit amet leo imperdiet porta. Mauris pellentesque finibus ligula non dignissim. Sed sed vehicula velit. Ut eleifend velit maximus massa lobortis mattis. In dui quam, rutrum eu purus et, mattis consequat ex. Vivamus risus mauris, ultricies vel dolor eget, aliquet tristique est. Suspendisse odio urna, vehicula vel diam at, pulvinar porttitor metus. Sed ac ipsum et magna aliquam mattis in eleifend mi. Pellentesque porttitor diam nec hendrerit efficitur.</description>
     </item>
     
     <item>
       <title>Data Manipulation in R</title>
-      <link>/posts/data_manipulation_in_r/</link>
+      <link>http://data.education/posts/data_manipulation_in_r/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/data_manipulation_in_r/</guid>
+      <guid>http://data.education/posts/data_manipulation_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non iaculis risus. Phasellus vitae nunc ac lectus finibus porttitor. Sed vel enim vulputate, euismod neque maximus, tincidunt turpis. Aenean accumsan leo eget dui porta pulvinar. Sed tincidunt, nisi non efficitur tempus, enim lectus aliquam arcu, at dignissim ligula ex eu quam. Suspendisse gravida dapibus ultrices. Vivamus convallis nulla nisl, a imperdiet felis pellentesque in. Nulla facilisi. Integer aliquet sed orci eu tempor.</description>
     </item>
     
     <item>
       <title>Data visualisation in R</title>
-      <link>/posts/data_visualisation_in_r/</link>
+      <link>http://data.education/posts/data_visualisation_in_r/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/data_visualisation_in_r/</guid>
+      <guid>http://data.education/posts/data_visualisation_in_r/</guid>
       <description>Nulla vel ante sit amet leo imperdiet porta. Mauris pellentesque finibus ligula non dignissim. Sed sed vehicula velit. Ut eleifend velit maximus massa lobortis mattis. In dui quam, rutrum eu purus et, mattis consequat ex. Vivamus risus mauris, ultricies vel dolor eget, aliquet tristique est. Suspendisse odio urna, vehicula vel diam at, pulvinar porttitor metus. Sed ac ipsum et magna aliquam mattis in eleifend mi. Pellentesque porttitor diam nec hendrerit efficitur.</description>
     </item>
     
     <item>
       <title>Modelling with R</title>
-      <link>/posts/modelling_with_r/</link>
+      <link>http://data.education/posts/modelling_with_r/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/modelling_with_r/</guid>
+      <guid>http://data.education/posts/modelling_with_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Bradford Open Data</title>
-      <link>/posts/bradford_open_data/</link>
+      <link>http://data.education/posts/bradford_open_data/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/bradford_open_data/</guid>
+      <guid>http://data.education/posts/bradford_open_data/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Anything else in R</title>
-      <link>/posts/others_in_r/</link>
+      <link>http://data.education/posts/others_in_r/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/others_in_r/</guid>
+      <guid>http://data.education/posts/others_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Machine learning in R</title>
-      <link>/posts/ml_in_r/</link>
+      <link>http://data.education/posts/ml_in_r/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ml_in_r/</guid>
+      <guid>http://data.education/posts/ml_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     

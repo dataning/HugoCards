@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data Education</title>
-    <link>/tags/</link>
+    <link>http://data.education/tags/</link>
     <description>Recent content in Tags on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://data.education/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
+      <link>http://data.education/tags/r/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>http://data.education/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database</title>
-      <link>/tags/database/</link>
+      <link>http://data.education/tags/database/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/database/</guid>
+      <guid>http://data.education/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data.table</title>
-      <link>/tags/data.table/</link>
+      <link>http://data.education/tags/data.table/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data.table/</guid>
+      <guid>http://data.education/tags/data.table/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Documentation</title>
-      <link>/tags/documentation/</link>
+      <link>http://data.education/tags/documentation/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/documentation/</guid>
+      <guid>http://data.education/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tidyverse</title>
-      <link>/tags/tidyverse/</link>
+      <link>http://data.education/tags/tidyverse/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tidyverse/</guid>
+      <guid>http://data.education/tags/tidyverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualisation</title>
-      <link>/tags/visualisation/</link>
+      <link>http://data.education/tags/visualisation/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/visualisation/</guid>
+      <guid>http://data.education/tags/visualisation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dataset</title>
-      <link>/tags/dataset/</link>
+      <title>Bradford</title>
+      <link>http://data.education/tags/bradford/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/dataset/</guid>
+      <guid>http://data.education/tags/bradford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>http://data.education/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>http://data.education/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>http://data.education/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>http://data.education/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>http://data.education/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>http://data.education/tags/regression/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Data Education</title>
-    <link>/pages/</link>
+    <link>http://data.education/pages/</link>
     <description>Recent content in Pages on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://data.education/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/pages/about/</link>
+      <link>http://data.education/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/about/</guid>
-      <description>Hero Data Education is an open data educaiton platform for peoplel who are interested in learning data science with R, Python, SQL, Git, Cloud and Tableau.</description>
+      <guid>http://data.education/pages/about/</guid>
+      <description>Data Education is an open learning platform for people who are interested in learning data science in R, Python, SQL, Git, Cloud and Tableau outside their work and study.
+The original goal of Data Education is to improve data skills across all public sectors and non-profit organisations in the UK. We&#39;re start at Bradford and Leeds, two great cities in Northern England.
+The project of Data Education remains free to access for everyone and we&#39;re committed to update the educaiton materials every three months.</description>
     </item>
     
     <item>
       <title>Team Hero</title>
-      <link>/pages/team/</link>
+      <link>http://data.education/pages/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/pages/team/</guid>
+      <guid>http://data.education/pages/team/</guid>
       <description>We&#39;re Team Hero.</description>
     </item>
     

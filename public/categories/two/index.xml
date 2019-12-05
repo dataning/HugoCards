@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>two on Data Education</title>
-    <link>/categories/two/</link>
+    <link>http://data.education/categories/two/</link>
     <description>Recent content in two on Data Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/two/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://data.education/categories/two/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project management with R</title>
-      <link>/posts/pm_in_r/</link>
+      <link>http://data.education/posts/pm_in_r/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/pm_in_r/</guid>
+      <guid>http://data.education/posts/pm_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Bradford Open Data</title>
-      <link>/posts/bradford_open_data/</link>
+      <link>http://data.education/posts/bradford_open_data/</link>
       <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/bradford_open_data/</guid>
+      <guid>http://data.education/posts/bradford_open_data/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Anything else in R</title>
-      <link>/posts/others_in_r/</link>
+      <link>http://data.education/posts/others_in_r/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/others_in_r/</guid>
+      <guid>http://data.education/posts/others_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
     <item>
       <title>Machine learning in R</title>
-      <link>/posts/ml_in_r/</link>
+      <link>http://data.education/posts/ml_in_r/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ml_in_r/</guid>
+      <guid>http://data.education/posts/ml_in_r/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
     </item>
     
